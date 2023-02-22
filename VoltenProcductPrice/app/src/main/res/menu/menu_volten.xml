@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group>
+
+        <item
+            android:id="@+id/com_set"
+            android:checked="true"
+            android:icon="@drawable/ic_promotion"
+            android:title="ប្រម៉ូសិនពិសេស" />
+        <item android:id="@+id/btn_event"
+            android:icon="@drawable/ic_event"
+            android:checked="true"
+            android:title="កម្មវិធី"/>
+        <item
+            android:id="@+id/btn_anouncement"
+            android:icon="@drawable/ic_anouncement"
+            android:title="សេចក្តីជូនដំណឹង"
+            android:checked="true"/>
+    </group>
+</menu>

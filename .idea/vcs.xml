@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GitProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hasann_Wedding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ineet_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ineet_Emall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wedding_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openpose/3rdparty/caffe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openpose/3rdparty/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openpose/3rdparty/pybind11/tools/clang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/voltenApp" vcs="Git" />
+  </component>
+</project>

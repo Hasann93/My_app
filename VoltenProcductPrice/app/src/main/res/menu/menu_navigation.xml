@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nvhome"
+        android:icon="@drawable/ic_icons8_home_3"
+        android:title="ទំព័រដើម"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/dark_blue"
+        >
+    </item>
+    <item
+        android:id="@+id/nvCombo"
+        android:icon="@drawable/ic_icons8_trolley"
+        android:title="ឈុត COMBO"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/dark_blue"
+        >
+    </item>
+    <item
+        android:id="@+id/nvSingle"
+        android:icon="@drawable/ic_icons8_delivery_handcart"
+        android:title="ឈុត Single"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/dark_blue"
+        >
+    </item>
+    <item
+        android:id="@+id/nvRetail"
+        android:icon="@drawable/ic_icons8_sell_1"
+        android:title="តម្លៃរាយ"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="@color/dark_blue"
+        >
+    </item>
+</menu>
