@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GitProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hasann_Wedding" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ineet_App" vcs="Git" />
